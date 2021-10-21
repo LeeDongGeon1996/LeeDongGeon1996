@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+
+> [6991httam.medium.com](6991httam.medium.com) 
+
+<a href="https://stackoverflow.com/users/13766950/6991httam"><img src="https://stackoverflow.com/users/flair/13766950.png" width="208" height="58" alt="profile for 6991httam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for 6991httam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedonggeon1996&show_icons=true)
 
