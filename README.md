@@ -23,7 +23,7 @@
 
    - 프로젝트 | 설명 | 언어/기술 | 비고
      :---|:---|:---|:---
-     [Cypher Notepad](https://cypher-notepad.github.io) | The user-friendly, plain-text editor with Hybrid Encryption. | Java | -
+     [Cypher Notepad](https://cypher-notepad.github.io) | The user-friendly, plain-text editor with Hybrid Encryption. | Java | 3.4k+ Download
      MicrosoftDocs/azure-docs | [Fix typo: PostgresSql -> PostgreSql](https://github.com/MicrosoftDocs/azure-docs/pull/64910) | - | -
      docker/cli | [docs: Fix wrong variable name](https://github.com/docker/cli/pull/2944) | - | -
      
