@@ -19,13 +19,13 @@
      
      
  - **오픈소스 개발을 좋아합니다.**
-   - 현재 [stock-indicators for Python](https://github.com/DaveSkender/Stock.Indicators.Python)을 개발하고 있습니다. [![PyPI](https://img.shields.io/pypi/v/stock-indicators?color=blue&label=PyPI)](https://badge.fury.io/py/stock-indicators)
+   - 현재는 [stock-indicators for Python](https://github.com/DaveSkender/Stock.Indicators.Python)을 개발하고 있습니다. [![PyPI](https://img.shields.io/pypi/v/stock-indicators?color=blue&label=PyPI)](https://badge.fury.io/py/stock-indicators)
 
-   - 프로젝트 | 설명 | 언어/기술 | 비고
+<!--    - 프로젝트 | 설명 | 언어/기술 | 비고
      :---|:---|:---|:---
      [Cypher Notepad](https://cypher-notepad.github.io) | The user-friendly, plain-text editor with Hybrid Encryption. | Java | <img src="https://img.shields.io/github/downloads/cypher-notepad/cypher-notepad/total?color=%239730b0&style=flat-square" alt="GitHub All Releases" />
      MicrosoftDocs/azure-docs | [Fix typo: PostgresSql -> PostgreSql](https://github.com/MicrosoftDocs/azure-docs/pull/64910) | - | -
-     docker/cli | [docs: Fix wrong variable name](https://github.com/docker/cli/pull/2944) | - | -
+     docker/cli | [docs: Fix wrong variable name](https://github.com/docker/cli/pull/2944) | - | - -->
      
 ----
 
