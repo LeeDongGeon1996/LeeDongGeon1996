@@ -11,7 +11,6 @@
 
 
  - **백엔드 개발자로 취업을 준비하고 있습니다.**
-   - 현재는 Django 프레임워크를 주로 사용하여 개발을 진행하고 있습니다.(Private repository)
    - 프로젝트 | 설명 | 언어/프레임워크 | 비고
      :---|:---|:---|:---
      [STM](https://github.com/LeeDongGeon1996/STM) | WYSIWYG Editor를 사용하여 시험지를 One-click 제작. | Java, Spring | 졸업작품
