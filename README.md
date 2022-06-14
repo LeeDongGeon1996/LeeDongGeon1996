@@ -10,15 +10,15 @@
 
 
 
- - **백엔드 개발자로 취업을 준비하고 있습니다.**
+<!--  - **백엔드 개발자로 취업을 준비하고 있습니다.**
    - 프로젝트 | 설명 | 언어/프레임워크 | 비고
      :---|:---|:---|:---
      [STM](https://github.com/LeeDongGeon1996/STM) | WYSIWYG Editor를 사용하여 시험지를 One-click 제작. | Java, Spring | 졸업작품
      [공인식당](https://github.com/matzip-exe/Server) | 서울시, 구 업무추진비 데이터를 기반으로 한 음식점 모바일 앱. | JavaScript, Express | [Google Play](https://play.google.com/store/apps/details?id=com.team_no_yes.matzip_exe)
-     [Nomakase](https://github.com/nomakase/server-common) | 오마카세 노쇼 예약 플랫폼. | TypeScript, Express | 미출시 
+     [Nomakase](https://github.com/nomakase/server-common) | 오마카세 노쇼 예약 플랫폼. | TypeScript, Express | 미출시  -->
      
      
- - **오픈소스 개발을 좋아합니다.**
+**오픈소스 개발을 좋아합니다.**
    - 현재는 [stock-indicators for Python](https://github.com/DaveSkender/Stock.Indicators.Python)을 개발하고 있습니다. [![PyPI](https://img.shields.io/pypi/v/stock-indicators?color=blue&label=PyPI)](https://badge.fury.io/py/stock-indicators)
 
 <!--    - 프로젝트 | 설명 | 언어/기술 | 비고
