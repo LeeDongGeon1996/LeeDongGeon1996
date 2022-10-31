@@ -18,8 +18,8 @@
      [Nomakase](https://github.com/nomakase/server-common) | 오마카세 노쇼 예약 플랫폼. | TypeScript, Express | 미출시  -->
      
      
-**오픈소스 개발을 좋아합니다.**
-   - 현재는 [Stock Indicators for Python](https://github.com/DaveSkender/Stock.Indicators.Python)을 개발하고 있습니다. [![PyPI](https://img.shields.io/pypi/v/stock-indicators?color=blue&label=PyPI)](https://badge.fury.io/py/stock-indicators)
+**Open-Source Lover**
+   - Currently, working on [Stock Indicators for Python](https://github.com/DaveSkender/Stock.Indicators.Python) [![PyPI](https://img.shields.io/pypi/v/stock-indicators?color=blue&label=PyPI)](https://badge.fury.io/py/stock-indicators)
 
 <!--    - 프로젝트 | 설명 | 언어/기술 | 비고
      :---|:---|:---|:---
